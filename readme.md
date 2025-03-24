@@ -8,9 +8,9 @@
   <a href="https://github.com/riquegsilva">
 
   <!-- STATS -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquegsilva&show_icons=true&include_all_commits=true&count_private=true&title_color=5283ff&icon_color=5283ff&text_color=dad3be&bg_color=000&border_color=000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquegsilva&show_icons=true&include_all_commits=true&count_private=true&title_color=fff&icon_color=5283ff&text_color=b4b4b4&bg_color=000&border_color=fff"/>
   <!-- MOST USED LANGUAGES -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquegsilva&layout=compact&langs_count=7&&title_color=5283ff&icon_color=5283ff&text_color=fff&bg_color=000&border_color=000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquegsilva&layout=compact&langs_count=7&&title_color=fff&icon_color=5283ff&text_color=b4b4b4&bg_color=000&border_color=fff"/>
 </div>
 
   #### Aprendendo
