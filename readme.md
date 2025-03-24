@@ -1,14 +1,18 @@
-## <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5nY3praHFmd29yY3V6ZThjaTVkOGxma25uazM4MTdtd3JjMmNpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="150"> Olá mundo! <br> Sou o Henrique. 
+## <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5nY3praHFmd29yY3V6ZThjaTVkOGxma25uazM4MTdtd3JjMmNpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="150"> <em>Olá mundo!</em> <br> Sou o Henrique.
 
+<!-- ENSINO SUPERIOR -->
 <p> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI1bnE0emIxb3hldW5jZ3FpN2xqMjZqc2w5Y3Z1dnRmcGZsNDRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjxYwnMG7Mocmc75DM/giphy.gif" width="30"><em> Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="https://www.uninter.com/">Uninter</a></em></p>
 <br><br><br>
 
 <div align="center">
   <a href="https://github.com/riquegsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquegsilva&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquegsilva&layout=compact&langs_count=7&theme=nightowl"/>
+
+  <!-- STATS -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquegsilva&show_icons=true&include_all_commits=true&count_private=true&title_color=5283ff&icon_color=5283ff&text_color=dad3be&bg_color=000&border_color=000"/>
+  <!-- MOST USED LANGUAGES -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquegsilva&layout=compact&langs_count=7&&title_color=5283ff&icon_color=5283ff&text_color=fff&bg_color=000&border_color=000"/>
 </div>
-  
+
   #### Aprendendo
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,5 +25,4 @@
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/riquesilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/riquegsilvaaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
 </div>
